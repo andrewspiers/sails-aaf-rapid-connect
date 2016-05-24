@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "jws": "3.0.0",
-    "sails-util-mvcsloader": "0.1.6"
+    "sails-util-mvcsloader": "0.3.2"
   }
 }
