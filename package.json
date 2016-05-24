@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shilob/sails-aaf-rapid-connect.git"
+    "url": "https://github.com/andrewspiers/sails-aaf-rapid-connect.git"
   },
   "keywords": [
     "sails",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shilob/sails-aaf-rapid-connect/issues"
+    "url": "https://github.com/andrewspiers/sails-aaf-rapid-connect/issues"
   },
-  "homepage": "https://github.com/shilob/sails-aaf-rapid-connect",
+  "homepage": "https://github.com/andrewspiers/sails-aaf-rapid-connect",
   "sails": {
     "isHook": true
   },
@@ -32,7 +32,7 @@
     "sails": "~0.11.0"
   },
   "dependencies": {
-    "jws": "^3.0.0",
-    "sails-util-mvcsloader": "~0.1.6"
+    "jws": "3.0.0",
+    "sails-util-mvcsloader": "0.1.6"
   }
 }
